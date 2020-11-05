@@ -1,0 +1,23 @@
+{
+	"classtype": "kSystemtable",
+	"omnisversion": "10.2",
+	"internalversion": 3,
+	"properties": {
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2020-11-05 08:32:31",
+		"desc": "",
+		"external": false,
+		"moddate": "2020-11-02 12:40:32",
+		"showascheckedout": false,
+		"userinfo": "",
+		"vcsrevision": 0,
+		"version": "1"
+	},
+	"fonts": [
+		"Arial",
+		"Courier New",
+		"Times New Roman",
+		"Verdana",
+		"Times New Roman"
+	]
+}

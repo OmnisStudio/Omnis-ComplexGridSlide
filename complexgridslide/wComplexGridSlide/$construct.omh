@@ -1,0 +1,5 @@
+Do iList.$define(iLeftColumn,iCenterColumn,iRightColumn)
+For lCount from 1 to 20 step 1
+	Do iList.$add(con('Left ',lCount),con('Center ',lCount),con('Right ',lCount),lCount)
+End For
+Do iList.$line.$assign(1)

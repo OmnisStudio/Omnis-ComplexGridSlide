@@ -1,0 +1,33 @@
+{
+	"ident": 1062,
+	"order": 16385,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "RGBA(kColorBackFill,255)",
+		"backpattern": 15,
+		"bordercolor": "RGBA(0,0,0,255)",
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"effect": "kBorderNone",
+		"fieldstyle": "TitleText",
+		"font": 5,
+		"fontsize": 20,
+		"fontstyle": "kPlain",
+		"forecolor": "RGBA(kColorForeFill,255)",
+		"height": 30,
+		"left": 10,
+		"linestyle": 1,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "Complex Grid slide out columns"
+		},
+		"textcolor": "kColorWindowText",
+		"top": 15,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 600
+	}
+}

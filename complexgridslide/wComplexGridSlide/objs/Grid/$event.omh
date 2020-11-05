@@ -1,0 +1,2 @@
+On evDoubleClick ## Event Parameters - pRow( Itemreference )
+	Do $cinst.$objs.Grid.$canclickvertheader.$assign(not($cinst.$objs.Grid.$canclickvertheader))

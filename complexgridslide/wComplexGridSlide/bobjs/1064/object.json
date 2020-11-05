@@ -1,0 +1,33 @@
+{
+	"ident": 1064,
+	"order": 16386,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "RGBA(kColorBackFill,255)",
+		"backpattern": 15,
+		"bordercolor": "RGBA(0,0,0,255)",
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"effect": "kBorderNone",
+		"fieldstyle": "CtrlLabel",
+		"font": 5,
+		"fontsize": 0,
+		"fontstyle": "kPlain",
+		"forecolor": "RGBA(kColorForeFill,255)",
+		"height": 20,
+		"left": 55,
+		"linestyle": 1,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "Show right column"
+		},
+		"textcolor": "kColorWindowText",
+		"top": 150,
+		"userinfo": "",
+		"vertcentertext": true,
+		"visible": true,
+		"width": 170
+	}
+}

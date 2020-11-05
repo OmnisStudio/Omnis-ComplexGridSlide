@@ -1,0 +1,33 @@
+{
+	"ident": 1074,
+	"order": 16391,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "RGBA(kColorBackFill,255)",
+		"backpattern": 15,
+		"bordercolor": "RGBA(0,0,0,255)",
+		"designactive": true,
+		"edgefloat": "kEFright",
+		"effect": "kBorderNone",
+		"fieldstyle": "LabelTextLarge",
+		"font": 5,
+		"fontsize": 12,
+		"fontstyle": "kPlain",
+		"forecolor": "RGBA(kColorForeFill,255)",
+		"height": 65,
+		"left": 10,
+		"linestyle": 1,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "With the slideouttype property set, complex grid left and right columns can be slid into view by calling $slideoutcolumn."
+		},
+		"textcolor": "kColorWindowText",
+		"top": 55,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 600
+	}
+}
